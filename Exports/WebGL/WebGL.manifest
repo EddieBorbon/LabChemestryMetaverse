@@ -1,0 +1,8 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: biology-and-chemistry-lab_default_0
+      Hash: 520a47436d952dde415bb0e43487503c
+      CRC: 311118726
+      Dependencies: {}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 497bdf9eb0f204b1aa8886835bf4b08e, type: 3}
+  m_Name: PrefabObject_2
+  m_EditorClassIdentifier: 
+  version: 0
+  sku: 649f1714f9bd5d584cd96869
+  packageName: BookTheoryCell
+  thumbnail: {fileID: 2800000, guid: 0b247d6dc854a40fdb7a75c7721046cd, type: 3}
+  savedProjectSettings: {fileID: 0}
+  prefab: {fileID: 9147519894136231647, guid: 34a4cd9842cba5f4faf7608293fccafc, type: 3}
